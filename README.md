@@ -3,8 +3,8 @@
 
 
 Estructura:
-Notebook: Taller2.ipynb 
-Tiene el desarrollo del taller.
+
+Notebook: Taller2.ipynb -- Tiene el desarrollo del taller.
 
 Carpetas:
 
